@@ -34,3 +34,9 @@ Some examples might be in place
 ### 0.1.0 (2013-01-09)
 
 - Initial release
+
+## Updating PyPi
+
+    python setup.py register
+    python setup.py sdist upload
+
